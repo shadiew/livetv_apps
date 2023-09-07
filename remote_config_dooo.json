@@ -1,0 +1,34 @@
+{
+  "parameters": {
+    "SERVER_URL": {
+      "defaultValue": {
+        "value": "https://admin.moatv.site/"
+      },
+      "valueType": "STRING"
+    },
+    "FLAG_SECURE": {
+      "defaultValue": {
+        "value": "false"
+      },
+      "valueType": "BOOLEAN"
+    },
+    "ALLOW_VPN": {
+      "defaultValue": {
+        "value": "false"
+      },
+      "valueType": "BOOLEAN"
+    },
+    "ALLOW_ROOT": {
+      "defaultValue": {
+        "value": "true"
+      },
+      "valueType": "BOOLEAN"
+    },
+    "API_KEY": {
+      "defaultValue": {
+        "value": "SaMRVPZWGvKBw7FE"
+      },
+      "valueType": "STRING"
+    }
+  }
+}
